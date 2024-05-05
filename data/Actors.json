@@ -1,0 +1,6 @@
+[
+null,
+{"id":1,"battlerName":"Actor1_1","characterIndex":7,"characterName":"all-Sprites","classId":1,"equips":[1,1,2,3,0],"faceIndex":3,"faceName":"Actor","traits":[],"initialLevel":1,"maxLevel":99,"name":"Player","nickname":"Player","note":"","profile":""},
+{"id":2,"battlerName":"-battler","characterIndex":5,"characterName":"all-Sprites","classId":2,"equips":[2,1,2,3,0],"faceIndex":0,"faceName":"Actor","traits":[],"initialLevel":99,"maxLevel":99,"name":"Biuag","nickname":"Biuag","note":"","profile":""},
+{"id":3,"battlerName":"Malanan-battler","characterIndex":6,"characterName":"all-Sprites","classId":1,"equips":[0,0,0,0,0],"faceIndex":4,"faceName":"Actor","traits":[],"initialLevel":99,"maxLevel":99,"name":"Malana","nickname":"Malana","note":"","profile":""}
+]
